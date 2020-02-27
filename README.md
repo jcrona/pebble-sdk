@@ -19,3 +19,6 @@ deactivate
 
 pebble sdk install latest
 ```
+
+# What next ?
+Go read the [tutorial](https://developer.rebble.io/developer.pebble.com/tutorials/watchface-tutorial/part1/index.html) !
