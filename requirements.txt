@@ -16,4 +16,4 @@ websocket-client==0.32.0
 wheel==0.24.0
 colorama==0.3.3
 packaging==16.7
-https://s3-us-west-2.amazonaws.com/pebble-sdk-homebrew/pypkjs-1.0.6.tar.gz
+https://github.com/ltpitt/vagrant-pebble-sdk/blob/master/pypkjs-1.0.6.tar.gz?raw=true
