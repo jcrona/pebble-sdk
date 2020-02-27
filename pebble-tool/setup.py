@@ -12,7 +12,7 @@ requires = [
     'pyasn1-modules==0.0.6',
     'pypng==0.0.17',
     'pyqrcode==1.1',
-    'requests==2.7.0',
+    'requests==2.20.0',
     'rsa==3.1.4',
     'pyserial==2.7',
     'six==1.9.0',
