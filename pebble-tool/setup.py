@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 requires = [
     'libpebble2==0.0.26',
-    'httplib2==0.9.1',
+    'httplib2==0.18.0',
     'oauth2client==1.4.12',
     'progressbar2==2.7.3',
     'pyasn1==0.1.8',
