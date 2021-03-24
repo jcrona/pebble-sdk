@@ -13,7 +13,7 @@ requires = [
     'pypng==0.0.17',
     'pyqrcode==1.1',
     'requests==2.7.0',
-    'rsa==3.1.4',
+    'rsa==4.1',
     'pyserial==2.7',
     'six==1.9.0',
     'websocket-client==0.32.0',
