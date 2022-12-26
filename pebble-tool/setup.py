@@ -17,7 +17,7 @@ requires = [
     'pyserial==2.7',
     'six==1.9.0',
     'websocket-client==0.32.0',
-    'wheel==0.24.0',
+    'wheel==0.38.1',
     'colorama==0.3.3',
     'packaging==16.7',
 ]
